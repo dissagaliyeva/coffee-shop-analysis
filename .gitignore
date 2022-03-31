@@ -56,4 +56,5 @@ docs/source/changelog.md
 
 .jupyter_releaser_checkout
 {"mode":"full","isActive":false}
-/project-bike-sharing/Bike-Sharing-Dataset/
+
+/ignore/
