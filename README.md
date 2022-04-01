@@ -13,3 +13,8 @@ feature engineering and model selection. Since the end-goal was to find the segm
 an appropriate unsupervised algorithm. The dataset had more categorical values than numeric, 
 there were two algorithms implemented: K-Means and K-Prototype.
 
+
+### Two notebooks
+As seen in the project structure, there are two notebooks present. Why so? 
+- "report.ipynb" contains the project structure without any code. It's done in a report-like structure.
+- "analysis.ipynb" contains the complete approach with the code present. 
