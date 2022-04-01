@@ -2,11 +2,11 @@
 
 This project is an individual attempt to tackle unsupervised learning methods in a business context. It consists
 of two main notebooks:
-- **analysis.ipynb** = shows the complete code and explanation 
-- **report.ipynb** = summarizes the work and presents the findings in a report-type of way
+- [analysis.ipynb](https://github.com/dissagaliyeva/ukrainian-coffee-market-analysis/blob/master/analysis.ipynb) = shows the complete code and explanation 
+- [report.ipynb](https://github.com/dissagaliyeva/ukrainian-coffee-market-analysis/blob/master/report.ipynb) = summarizes the work and presents the findings in a report-type of way
 
 
-#### -- Project Status: Completed
+#### -- Project Status: Completed ✅
 
 ## Objective
 
